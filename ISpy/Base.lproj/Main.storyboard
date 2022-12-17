@@ -43,6 +43,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="imageView" destination="hLg-j0-QLo" id="KrO-4f-uPA"/>
                         <outlet property="scrollView" destination="whv-0z-MWr" id="BDS-yb-HRH"/>
                     </connections>
                 </viewController>
